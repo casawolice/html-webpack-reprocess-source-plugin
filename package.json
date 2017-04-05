@@ -1,0 +1,27 @@
+{
+  "name": "html-webpack-reprocess-source-plugin",
+  "version": "0.1.0",
+  "description": "A plugin for html-webpack-plugin",
+  "homepage": "https://github.com/casawolice/html-webpack-reprocess-source-plugin",
+  "keywords": [
+    "node",
+    "html-webpack-plugin",
+    "plugin",
+    "plugins"
+  ],
+  "author": "casawolice <casawolice@qq.com>",
+  "scripts": {
+    "npmTb":"npm config set registry https://registry.npm.taobao.org",
+    "npmOrgin":"npm config set registry https://registry.npmjs.org"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+ 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:casawolice/html-webpack-reprocess-source-plugin.git"
+  },
+  "license": "MIT"
+}

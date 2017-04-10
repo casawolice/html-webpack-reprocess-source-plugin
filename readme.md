@@ -2,6 +2,8 @@
 ## 【 html-webpack-plugin的第三方插件】
 ### 用于多页面时公用资源处理（css、js）
 ### 用法
+- var HtmlWebpackPlugin = require('html-webpack-plugin');
+- var HtmlWebpackReprocessSourcePlugin = require('html-webpack-reprocess-source-plugin');
 + webpack.config.js中配置
 - 1.启用插件：new HtmlWebpackReprocessSourcePlugin({ enable: true }) //enable: true 启用插件
 - 2.启用插件：new HtmlWebpackPlugin({
